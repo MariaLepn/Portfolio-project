@@ -116,9 +116,7 @@
   
   .nav-list {
     display: flex;
-    background-color: #504a4b;
-    border-bottom: 4px solid #504a4b;
-    border-radius: 0px 0px 0px 200px;
+
     width: 20em;
     
     justify-content: flex-end;
